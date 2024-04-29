@@ -19,10 +19,10 @@ https://www.python.org/downloads/
 pip install notebook
 
 # Clone the repository
-git clone https://github.com/your-username/your-repository.git
+https://github.com/HarshBhakkad/Chebyshev_Polynomial.git
 
 # Navigate to the repository directory
-cd your-repository
+cd Chebyshev_Polynomial
 
 # Start Jupyter notebook
 jupyter notebook
